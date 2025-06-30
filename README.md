@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Udbhav-Dubey
-- 👀 I’m interested in Robotics and Gaming
-- 🌱 I’m currently learning C/C++/Python language 
-https://leetcode.com/u/udbhav-dubey/
+# 👋 Hey there, I'm Udbhav Dubey
 
+- 🌱 Currently learning **C**, **C++**, and **Python**
+- 🚀 Just started my journey on LeetCode: [udbhav-dubey](https://leetcode.com/u/udbhav-dubey/)
+- 📘 Exploring the world of **Data Structures**, **Algorithms**, and real-world projects
+- 💡 Passionate about tech, building cool things, and improving every day
+
+Let's connect and grow together!
