@@ -5,4 +5,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubeylayout=compact&theme=radical))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=radical)
