@@ -2,4 +2,7 @@
 
 - 🌱 Currently learning **C**, **C++**, and **Python**
 - 🚀 Just a newbie on LeetCode: [udbhav-dubey](https://leetcode.com/u/udbhav-dubey/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=pie)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubeylayout=compact&theme=radical))
