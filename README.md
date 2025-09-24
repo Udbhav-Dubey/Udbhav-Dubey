@@ -1,6 +1,6 @@
  # 👋 Hey there, I'm Udbhav Dubey
 
-- 🌱 Currently learning **C**, **C++**, and **Python**
+- 🌱 Currently learning **C**/**C++**
 - 🚀 Just a newbie on LeetCode: [udbhav-dubey](https://leetcode.com/u/udbhav-dubey/)
 
 
