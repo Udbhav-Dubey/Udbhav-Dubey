@@ -6,4 +6,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=radical)
-[![An image of @udbhavdubey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udbhavdubey)](https://holopin.io/@udbhavdubey)
+
