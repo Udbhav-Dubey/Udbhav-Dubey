@@ -7,3 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=radical)
 
+![Energy Ball](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzkzNWp3ZnF6NzRjaXdiNTk4Njd1OXNheXpvOXE2YmltOHhyMTAxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13SBMZWCrSjw6A/giphy.gif)
