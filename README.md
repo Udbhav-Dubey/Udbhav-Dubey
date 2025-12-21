@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img 
@@ -14,12 +14,14 @@
     </td>
   </tr>
 </table>
-kakarotshyper
--------------
-Student · Competitive Programming · Systems
 
-I write C and C++.  
+<h2 align="center">kakarotshyper</h2>
+<p align="center"><i>Student · Competitive Programming · Systems</i></p>
+
+<p align="center">
+I write C and C++. <br/>
 I spend most of my time solving problems and understanding how systems work under the hood.
+</p>
 
 ---
 
@@ -31,8 +33,8 @@ I spend most of my time solving problems and understanding how systems work unde
 ---
 
 ## Competitive Programming
-- **LeetCode**: https://leetcode.com/u/udbhav-dubey/
-- **Codeforces**: https://codeforces.com/profile/KakarotsHyper
+- <b>LeetCode</b>: https://leetcode.com/u/udbhav-dubey/
+- <b>Codeforces</b>: https://codeforces.com/profile/KakarotsHyper
 
 ---
 
@@ -45,11 +47,11 @@ I spend most of my time solving problems and understanding how systems work unde
 ---
 
 ## Toolchain
-- **OS**: Manjaro Linux
-- **Editor**: Neovim
-- **Terminal**: GNOME Terminal
-- **VCS**: Git & GitHub
-- **Notes**: OneNote
+- <b>OS</b>: Manjaro Linux  
+- <b>Editor</b>: Neovim  
+- <b>Terminal</b>: GNOME Terminal  
+- <b>VCS</b>: Git & GitHub  
+- <b>Notes</b>: OneNote  
 
 ---
 
@@ -61,4 +63,8 @@ I spend most of my time solving problems and understanding how systems work unde
 ---
 
 ## Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udbhav-dubey&layout=compact&theme=transparent)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=udbhav-dubey&layout=compact&theme=transparent"
+  />
+</p>
