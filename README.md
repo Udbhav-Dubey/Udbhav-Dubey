@@ -26,7 +26,7 @@ I spend most of my time solving problems and understanding how systems work unde
 ---
 
 ## Current Focus
-- Competitive Programming (consistency over speed)
+- Competitive Programming 
 - Operating Systems fundamentals
 - Computer Networking concepts
 
