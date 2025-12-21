@@ -16,7 +16,7 @@
 </table>
 
 <h2 align="center">kakarotshyper</h2>
-<p align="center"><i>Student · Competitive Programming · Systems</i></p>
+<p align="center"><i>Student · Competitive Programming · Systems Engineering </i></p>
 
 <p align="center">
 I write C and C++. <br/>
