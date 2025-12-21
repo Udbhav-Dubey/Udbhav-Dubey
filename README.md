@@ -15,12 +15,13 @@
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=radical" 
-        width="260"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=radical&card_width=320" 
+        width="320"
       />
     </td>
   </tr>
 </table>
+
 
 
 ---
