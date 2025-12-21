@@ -1,8 +1,19 @@
-<table> 
+<table>
   <tr>
-    <td align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdkeDNraXp2YWJjMnF3Y3Y4Z2czZ2I5MGgxdDUxejdxeDhha3duaiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/12m3hgKuSuhClW/giphy.gif" width="260" /> </td> <td align="center"> 
-     </tr> </table>⠀⠀⠀⠀⠀⠀
-
+    <td align="center">
+      <img 
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdkeDNraXp2YWJjMnF3Y3Y4Z2czZ2I5MGgxdDUxejdxeDhha3duaiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/12m3hgKuSuhClW/giphy.gif"
+        width="260"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://i.pinimg.com/originals/6a/be/b9/6abeb932bdd998809de75ebf976ddb60.gif"
+        width="320"
+      />
+    </td>
+  </tr>
+</table>
 kakarotshyper
 -------------
 Student · Competitive Programming · Systems
