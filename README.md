@@ -68,3 +68,48 @@ I spend most of my time solving problems and understanding how systems work unde
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=udbhav-dubey&layout=compact&theme=transparent"
   />
 </p>
+
+## Projects & Repositories
+
+### 🚀 Projects
+Focused, standalone projects exploring systems, networking, and low-level design.
+
+- **posix-server-nirvana**  
+  A minimal HTTP server written in C++ using POSIX sockets.  
+  Built while studying low-level networking and HTTP fundamentals.  
+   https://github.com/Udbhav-Dubey/posix-server-nirvana
+---
+
+###  Systems & Networking Experiments
+Smaller but serious explorations that live inside my playground repository.
+
+- **Two-way chat room**  
+  A simple client–server chat application using sockets.  
+   https://github.com/Udbhav-Dubey/ud-playground/tree/main/chat%20room
+
+- **Custom memory allocator**  
+  Experiments with bump allocators and memory management strategies in C++.  
+   https://github.com/Udbhav-Dubey/ud-playground/tree/main/custom_memory_allocator
+  
+- **grid-games**  
+  Grid-based games (Snake, Maze) implemented as lightweight HTTP servers in C++.  
+  Emphasis on server-driven game logic and raw socket communication.  
+   https://github.com/Udbhav-Dubey/grid-games
+---
+
+###  Competitive Programming
+Problem-solving practice and contest code.
+
+- **LeetCode solutions**  
+   https://github.com/Udbhav-Dubey/udcpp/tree/main/lc
+
+- **Codeforces solutions**  
+   https://github.com/Udbhav-Dubey/udcpp/tree/main/cf
+
+---
+
+### 🎓 Academic
+College coursework and lab assignments.
+
+- **Computer Science Lab Work**  
+   https://github.com/Udbhav-Dubey/thapar_cs_lab
