@@ -71,7 +71,7 @@ I spend most of my time solving problems and understanding how systems work unde
 
 ## Projects & Repositories
 
-### 🚀 Projects
+###  Projects
 Focused, standalone projects exploring systems, networking, and low-level design.
 
 - **posix-server-nirvana**  
@@ -108,7 +108,7 @@ Problem-solving practice and contest code.
 
 ---
 
-### 🎓 Academic
+###  Academic
 College coursework and lab assignments.
 
 - **Computer Science Lab Work**  
