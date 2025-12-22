@@ -78,6 +78,11 @@ Focused, standalone projects exploring systems, networking, and low-level design
   A minimal HTTP server written in C++ using POSIX sockets.  
   Built while studying low-level networking and HTTP fundamentals.  
    https://github.com/Udbhav-Dubey/posix-server-nirvana
+- **Alfred — Terminal Reflection Tool (C++)**  
+  A local-first, terminal-based daily reflection tool.  
+  Implements manual CSV parsing and hashing in C++ to track habit changes without databases, cloud services, or external dependencies.  
+   https://github.com/Udbhav-Dubey/alfred
+
 ---
 
 ###  Systems & Networking Experiments
