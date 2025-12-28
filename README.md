@@ -58,7 +58,6 @@ I spend most of my time solving problems and understanding how systems work unde
 ## Languages
 - C
 - C++
-- Rust (planned)
 
 ---
 
