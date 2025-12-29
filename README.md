@@ -63,7 +63,7 @@ I spend most of my time solving problems and understanding how systems work unde
 
 ## Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=dark&include_forks=true&langs_count=10&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Udbhav-Dubey&layout=compact&theme=dark" />
 </p>
 
 ## Projects & Repositories
