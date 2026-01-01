@@ -16,10 +16,10 @@
 </table>
 
 <h2 align="center">kakarotshyper</h2>
-<p align="center"><i>Student · Competitive Programming · Systems Engineering </i></p>
+<p align="center"><i>Student • Trying to avoid TLEs and memory leaks </i></p>
 
 <p align="center">
-I write C and C++. <br/>
+I try to write C and C++ <br/>
 I spend most of my time solving problems and understanding how systems work under the hood.
 </p>
 
