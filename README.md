@@ -58,9 +58,9 @@ I spend most of my time solving problems and understanding how systems work unde
 ## Languages
 - C
 - C++
-
+- 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=github_dark)
 ---
-
 
 
 ## Projects & Repositories
