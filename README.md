@@ -82,9 +82,9 @@ Focused, standalone projects exploring systems, networking, and low-level design
 ###  Systems & Networking Experiments
 Smaller but serious explorations that live inside my playground repository.
 
-- **Two-way chat room**  
-  A simple client–server chat application using sockets.  
-   https://github.com/Udbhav-Dubey/ud-playground/tree/main/chat%20room
+- **POSIX Chat Room (event-driven)**  
+  Multi-client chat system in C++ using POSIX sockets, non-blocking I/O, and poll() to demonstrate blocking vs event-driven designs.  
+   https://github.com/Udbhav-Dubey/posix-chat
 
 - **Custom memory allocator**  
   Experiments with bump allocators and memory management strategies in C++.  
