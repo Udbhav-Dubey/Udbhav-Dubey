@@ -88,7 +88,7 @@ Smaller but serious explorations that live inside my playground repository.
 
 - **Custom memory allocator**  
   Experiments with bump allocators and memory management strategies in C++.  
-   https://github.com/Udbhav-Dubey/ud-playground/tree/main/custom_memory_allocator
+   https://github.com/Udbhav-Dubey/memory-allocators
   
 - **grid-games**  
   Grid-based games (Snake, Maze) implemented as lightweight HTTP servers in C++.  
