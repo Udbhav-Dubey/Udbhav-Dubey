@@ -51,7 +51,7 @@ I spend most of my time solving problems and understanding how systems work unde
 - <b>Editor</b>: Neovim  
 - <b>Terminal</b>: GNOME Terminal  
 - <b>VCS</b>: Git & GitHub  
-- <b>Notes</b>: OneNote  
+- <b>Notes</b>: OneNote && Rnote 
 
 ---
 
@@ -80,7 +80,6 @@ Focused, standalone projects exploring systems, networking, and low-level design
 ---
 
 ###  Systems & Networking Experiments
-Smaller but serious explorations that live inside my playground repository.
 
 - **POSIX Chat Room (event-driven)**  
   Multi-client chat system in C++ using POSIX sockets, non-blocking I/O, and poll() to demonstrate blocking vs event-driven designs.  
