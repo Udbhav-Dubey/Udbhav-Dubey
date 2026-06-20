@@ -65,49 +65,30 @@ I spend most of my time solving problems and understanding how systems work unde
 
 ## Projects & Repositories
 
-###  Projects
-Focused, standalone projects exploring systems, networking, and low-level design.
+### Flagship
+- **tiny-inference (MSNIT)** — a from-scratch C++ inference engine, no libtorch, no ML framework. Parses real PyTorch `.pth` files at the binary level (ZIP + pickle opcodes), builds an MLP from primitives, and runs inference in ~8µs on a Ryzen 5 5500U. GEMM optimization journey took 1000×1000 matmul from 23.2s to 190ms (~122x) through loop reordering, raw pointers, and cache-blocked tiling.  
+  https://github.com/Udbhav-Dubey/tiny-inference
 
-- **posix-server-nirvana**  
-  A minimal HTTP server written in C++ using POSIX sockets.  
-  Built while studying low-level networking and HTTP fundamentals.  
-   https://github.com/Udbhav-Dubey/posix-server-nirvana
-- **Alfred — Terminal Reflection Tool (C++)**  
-  A local-first, terminal-based daily reflection tool.  
-  Implements manual CSV parsing and hashing in C++ to track habit changes without databases, cloud services, or external dependencies.  
-   https://github.com/Udbhav-Dubey/alfred
+### Systems Projects
+- **posix-server-nirvana** — event-driven HTTP/1.1 server in C++ using raw POSIX sockets and `poll()`, migrated from thread-per-client to a non-blocking event loop. No frameworks; manual request parsing and binary streaming.  
+  https://github.com/Udbhav-Dubey/posix-server-nirvana
 
----
+- **memory-allocators** — bump, arena, and pool allocators built from scratch to study alignment, ownership, and allocation-pattern performance. Arena runs ~12x faster than `new` for small fixed allocations; pool's random-order free runs ~9.6x faster than `delete` by avoiding TLB-thrashing pointer chases. Slab allocator in progress.  
+  https://github.com/Udbhav-Dubey/memory-allocators
 
-###  Systems & Networking Experiments
+### Earlier Experiments
+- **posix-chat** — multi-client chat system in C++ using POSIX sockets and `poll()`, exploring blocking vs. event-driven design.  
+  https://github.com/Udbhav-Dubey/posix-chat
 
-- **POSIX Chat Room (event-driven)**  
-  Multi-client chat system in C++ using POSIX sockets, non-blocking I/O, and poll() to demonstrate blocking vs event-driven designs.  
-   https://github.com/Udbhav-Dubey/posix-chat
+- **grid-games** — grid-based games (Snake, Maze) served over raw HTTP sockets in C++.  
+  https://github.com/Udbhav-Dubey/grid-games
 
-- **Custom memory allocator**  
-  Experiments with bump allocators and memory management strategies in C++.  
-   https://github.com/Udbhav-Dubey/memory-allocators
-  
-- **grid-games**  
-  Grid-based games (Snake, Maze) implemented as lightweight HTTP servers in C++.  
-  Emphasis on server-driven game logic and raw socket communication.  
-   https://github.com/Udbhav-Dubey/grid-games
----
+- **Alfred** — local-first terminal reflection tool in C++ with manual CSV parsing, no databases or external dependencies.  
+  https://github.com/Udbhav-Dubey/alfred
 
-###  Competitive Programming
-Problem-solving practice and contest code.
+### Competitive Programming
+- **LeetCode solutions**: https://github.com/Udbhav-Dubey/udcpp/tree/main/lc
+- **Codeforces solutions**: https://github.com/Udbhav-Dubey/udcpp/tree/main/cf
 
-- **LeetCode solutions**  
-   https://github.com/Udbhav-Dubey/udcpp/tree/main/lc
-
-- **Codeforces solutions**  
-   https://github.com/Udbhav-Dubey/udcpp/tree/main/cf
-
----
-
-###  Academic
-College coursework and lab assignments.
-
-- **Computer Science Lab Work**  
-   https://github.com/Udbhav-Dubey/thapar_cs_lab
+### Academic
+- **Computer Science Lab Work**: https://github.com/Udbhav-Dubey/thapar_cs_lab
