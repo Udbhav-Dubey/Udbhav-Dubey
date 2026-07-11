@@ -26,15 +26,14 @@ I spend most of my time solving problems and understanding how systems work unde
 ---
 
 ## Current Focus
-- Competitive Programming 
+- DSA
 - Operating Systems fundamentals
 - Computer Networking concepts
 
 ---
 
-## Competitive Programming
+## DSA
 - <b>LeetCode</b>: https://leetcode.com/u/udbhav-dubey/
-- <b>Codeforces</b>: https://codeforces.com/profile/KakarotsHyper
 
 ---
 
