@@ -87,7 +87,6 @@ I spend most of my time solving problems and understanding how systems work unde
 
 ### Competitive Programming
 - **LeetCode solutions**: https://github.com/Udbhav-Dubey/udcpp/tree/main/lc
-- **Codeforces solutions**: https://github.com/Udbhav-Dubey/udcpp/tree/main/cf
 
 ### Academic
 - **Computer Science Lab Work**: https://github.com/Udbhav-Dubey/thapar_cs_lab
