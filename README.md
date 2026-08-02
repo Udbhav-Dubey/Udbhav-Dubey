@@ -25,40 +25,12 @@ I spend most of my time solving problems and understanding how systems work unde
 
 ---
 
-## Current Focus
-- DSA
-- Operating Systems fundamentals
-- Computer Networking concepts
-
----
-
-## DSA
-- <b>LeetCode</b>: https://leetcode.com/u/udbhav-dubey/
-
----
-
 ## Systems Interests
 - Process & memory models
 - Concurrency basics
 - Networking fundamentals
 - Linux-oriented workflows
 
----
-
-## Toolchain
-- <b>OS</b>: Manjaro Linux  
-- <b>Editor</b>: Neovim  
-- <b>Terminal</b>: GNOME Terminal  
-- <b>VCS</b>: Git & GitHub  
-- <b>Notes</b>: OneNote && Rnote 
-
----
-
-## Languages
-- C
-- C++
-- 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Udbhav-Dubey&layout=compact&theme=github_dark)
 ---
 
 
@@ -85,7 +57,8 @@ I spend most of my time solving problems and understanding how systems work unde
 - **Alfred** — local-first terminal reflection tool in C++ with manual CSV parsing, no databases or external dependencies.  
   https://github.com/Udbhav-Dubey/alfred
 
-### Competitive Programming
+## DSA
+- <b>LeetCode</b>: https://leetcode.com/u/udbhav-dubey/
 - **LeetCode solutions**: https://github.com/Udbhav-Dubey/udcpp/tree/main/lc
 
 ### Academic
