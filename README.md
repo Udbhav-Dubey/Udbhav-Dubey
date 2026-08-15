@@ -59,7 +59,6 @@ I spend most of my time solving problems and understanding how systems work unde
 
 ## DSA
 - <b>LeetCode</b>: https://leetcode.com/u/udbhav-dubey/
-- **LeetCode solutions**: https://github.com/Udbhav-Dubey/udcpp/tree/main/lc
 
 ### Academic
 - **Computer Science Lab Work**: https://github.com/Udbhav-Dubey/thapar_cs_lab
